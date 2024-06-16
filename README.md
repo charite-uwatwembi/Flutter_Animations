@@ -15,27 +15,23 @@ Flutter installed on your local machine. Follow the official installation guide.
 Clone the repository:
 
 ```bash
-Copy code
 https://github.com/charite-uwatwembi/Flutter_Animations.git
 ```
 
 ### Navigate to the project directory:
 
 ```bash
-Copy code
 cd flutter-animation-demo
 ``` 
 
 ### Install dependencies:
 
 ```bash
-Copy code
 flutter pub get
 Run the app:
 ```
 
 ```bash
-Copy code
 flutter run
 ```
 

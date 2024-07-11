@@ -7,7 +7,11 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        appBar: AppBar(title: Text('Slide Transition'), centerTitle: true, backgroundColor: Colors.blue,),
+        appBar: AppBar(
+          title: Text('Slide Transition'),
+          centerTitle: true,
+          backgroundColor: Colors.blue,
+        ),
         body: SlideTransitionExample(),
       ),
     );
